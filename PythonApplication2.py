@@ -34,7 +34,7 @@ def BainarySearch(b,x):
           r=m-1
    if(x==b[l]):
       return r
-   return -1 
+    return -1 
       
 a=[0]*10
 a[0]=random.randint(1, 10)
