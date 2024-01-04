@@ -4,8 +4,7 @@
 #    for i in range(len(b)):
 #       if(b[i]==x):
 #          return i
-#       else:
-#          return -1
+#    return -1
 
 # a=[0]*10
 # a[0]=random.randint(1, 10)
