@@ -1,4 +1,4 @@
-#is_ordered
+Is Ordered
 
 A list of integers is called an "ordered list" if all even values ​​(if any) are at the beginning
 The list and all the odd values ​​(if any) are after them, at the end of the list.
