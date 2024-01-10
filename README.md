@@ -12,7 +12,6 @@ The first function receives a list of integers arr.
 The second function receives three parameters of integer type: size, x, y.
  The operation should create an ordered list of integers of size filled with random numbers
  Between x and y (inclusive).
- 
  It can be assumed that 0<size and y<x as well.
 
 
