@@ -8,7 +8,6 @@ lst1 = [6, 24, 12, 8, 44, 3, 7]
 lst2 = [6, 24, 12, 8, 16, 22]
 The first function receives a list of integers arr.
  The operation will return a True value, if the list is "ordered" and not, the operation will return a False value.
- 
 The second function receives three parameters of integer type: size, x, y.
  The operation should create an ordered list of integers of size filled with random numbers
  Between x and y (inclusive).
