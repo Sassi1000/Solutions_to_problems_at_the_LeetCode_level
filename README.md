@@ -1,3 +1,25 @@
+#is_ordered
+
+A list of integers is called an "ordered list" if all even values ​​(if any) are at the beginning
+The list and all the odd values ​​(if any) are after them, at the end of the list.
+for example:
+The following lists are "ordered" lists:
+lst1 = [6, 24, 12, 8, 44, 3, 7]
+lst2 = [6, 24, 12, 8, 16, 22]
+The first function receives a list of integers arr.
+ The operation will return a True value, if the list is "ordered" and not, the operation will return a False value.
+ 
+The second function receives three parameters of integer type: size, x, y.
+ The operation should create an ordered list of integers of size filled with random numbers
+ Between x and y (inclusive).
+ 
+ It can be assumed that 0<size and y<x as well.
+
+
+
+
+
+
 Distance Finder
 
 The first function in this exercise checks the distance of a certain number from the two borders of the array.
