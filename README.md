@@ -1,3 +1,22 @@
+A large palindrome
+
+A "palindrome" is any sequence of characters whose reading from right to left and from left to right is the same.
+Examples of palindromes:
+ABCCBA, 12A21, a0X$11$X0a
+"Large palindromes", is a palindrome consisting only of the letters Z..A (the other letters do not matter)
+for example:
+fA%B##rkC1^BAdd
+is a large palindrome.
+The given operation accepts a string and returns True if the string is a large palindrome, otherwise the operation
+will return False.
+
+
+
+
+
+
+
+
 Is Ordered
 
 A list of integers is called an "ordered list" if all even values ​​(if any) are at the beginning
