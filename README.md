@@ -4,10 +4,10 @@ Definition: An alternating number is a positive whole number in which each pair 
 That is, next to every even number there is an odd number. A single digit number is an alternating number.
 
 Examples:
-#The number 163458 is an alternating number because each pair of adjacent digits in it has a different parity.
-# The number 1634589 is an alternating number because each pair of adjacent digits in it has a different parity.
-# The number 163789 is not an alternating number because the digits 3 and 7 are adjacent and both are odd.
-# The number 6 and the number 12 are alternating numbers.
+ The number 163458 is an alternating number because each pair of adjacent digits in it has a different parity.
+ The number 1634589 is an alternating number because each pair of adjacent digits in it has a different parity.
+ The number 163789 is not an alternating number because the digits 3 and 7 are adjacent and both are odd.
+ The number 6 and the number 12 are alternating numbers.
 
 The first operation accepts a positive integer and returns true if it is an alternating number,
 If not - the operation will return the value false.
