@@ -20,7 +20,6 @@ The second operation accepts an array of positive integers and returns the posit
 
 
 
-
 A large palindrome
 
 A "palindrome" is any sequence of characters whose reading from right to left and from left to right is the same.
