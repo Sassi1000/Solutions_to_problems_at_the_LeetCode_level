@@ -4,7 +4,7 @@ Radix Sort
 Radix sorting is the most efficient sorting for lists.
 In fact, it is built on Class Queu, which uses the "first in is first out" method.
 Sorting is done using 10 queues which receive the unity digit for the first time and according to their order scatters them in all the queues, and then collects back from all the queues the numbers in order into the original array.
-The operation is repeated as many digits in the number.
+The operation is repeated over and over as the number of digits in the number.
 In a test I conducted on a random array of 1000000 organs, with this sorting method it only takes 13 seconds to sort the array. Of course it depends on what computer you have.
 On the other hand, in the stupid sort that goes through each organ in front of all the others, it takes much longer.
 Both functions are attached.
