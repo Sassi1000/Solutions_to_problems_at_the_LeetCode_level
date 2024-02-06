@@ -16,10 +16,6 @@ Both functions are attached.
 
 
 
-
-
-
-
 A changing number
 
 Definition: An alternating number is a positive whole number in which each pair of adjacent digits has a different parity.
@@ -53,7 +49,6 @@ fA%B##rkC1^BAdd
 is a large palindrome.
 The given operation accepts a string and returns True if the string is a large palindrome, otherwise the operation
 will return False.
-
 
 
 
